@@ -4,10 +4,10 @@ I'm a passionate software developer with a love for technology and innovation. I
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C#, C++, JavaScript
+- **Languages:** C++, C#, Java, C, Python, JavaScript
 - **Engine:** Unity
-- **Libraries/Frameworks:** SDL, OpenGL, OGRE
-- **Tools:** Visual Studio, PhysX, Blender, GitHub
+- **Libraries/Frameworks:** PhysX, SDL, OpenGL, OGRE
+- **Tools:** Visual Studio, Blender, GitHub, Android Stuido, JetBrains, FMOD Studio, Audacity
 
 ## 🚀 Projects
 
@@ -20,7 +20,7 @@ Check out my games and other projects on [itch.io](https://itsjimbo.itch.io)!
 
 ## 📫 How to reach me
 
-- **Email:** javicentear@gmail.com
+- **Email:** jimbo.works@pm.me
 - **Twitter:** [twitter.com/Jimbi04](https://twitter.com/Jimbi04)
 
 Thanks for stopping by! 😄
