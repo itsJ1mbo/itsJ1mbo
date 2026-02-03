@@ -1,17 +1,17 @@
-# Hi there, I'm Jimbo! 👋
+# Hello there, I'm Jimbo! 👋
 
-I'm a passionate software developer with a love for technology and innovation. I enjoy solving complex problems and creating efficient solutions with code. Here’s a bit about me:
+I'm a passionate game developer with a love for technology and innovation. I enjoy developing ideas, solving complex problems and creating efficient solutions with code. Here’s a bit about me:
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** C++, C#, Java, C, Python, JavaScript
-- **Engine:** Unity
-- **Libraries/Frameworks:** PhysX, SDL, OpenGL, OGRE
-- **Tools:** Visual Studio, Blender, GitHub, Android Stuido, JetBrains, FMOD Studio, Audacity
+- **Engines:** Unity, Phaser, Andy Engine, Ren'py
+- **Libraries:** PhysX, SDL, OpenGL, OGRE
+- **Tools:** Visual Studio, Blender, Git/Github, Svn, Android Stuido, JetBrains, FMOD Studio, Audacity
 
 ## 🚀 Projects
 
-Check out my games and other projects on [itch.io](https://itsjimbo.itch.io)!
+Check out my games and other projects here or on [itch.io](https://itsjimbo.itch.io)!
 
 ## 📈 GitHub Stats
 
