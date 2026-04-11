@@ -5,9 +5,9 @@ I'm a passionate game developer with a love for technology and innovation. I enj
 ## 🔧 Technologies & Tools
 
 - **Languages:** C++, C#, Java, C, Python, JavaScript
-- **Engines:** Unity, Phaser, Andy Engine, Ren'py
-- **Libraries:** PhysX, SDL, OpenGL, OGRE
-- **Tools:** Visual Studio, Blender, Git/Github, Svn, Android Stuido, JetBrains, FMOD Studio, Audacity
+- **Engines:** Unity, Unreal, Andy Engine
+- **Libraries:** PhysX, SDL, OpenGL, OGRE3D
+- **Tools:** Visual Studio, Blender, Git, Svn, Android Studio, JetBrains, FMOD Studio, Audacity
 
 ## 🚀 Projects
 
