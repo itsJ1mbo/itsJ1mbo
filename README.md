@@ -20,7 +20,7 @@ Check out my games and other projects here or on [itch.io](https://itsjimbo.itch
 
 ## 📫 More info
 
-- **Web:** [This is my web](itsj1mbo.github.io)
+- **Web:** [This is my web](https://itsj1mbo.github.io)
 - **Twitter:** [twitter.com/Jimbi04](https://twitter.com/Jimbi04)
 
 Thanks for stopping by! 😄
