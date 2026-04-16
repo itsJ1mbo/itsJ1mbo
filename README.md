@@ -18,9 +18,9 @@ Check out my games and other projects here or on [itch.io](https://itsjimbo.itch
 ![Jimbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsJ1mbo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsJ1mbo&layout=compact&theme=radical)
 
-## 📫 How to reach me
+## 📫 More info
 
-- **Email:** jimbo.works@pm.me
+- **Web:** [This is my web](itsj1mbo.github.io)
 - **Twitter:** [twitter.com/Jimbi04](https://twitter.com/Jimbi04)
 
 Thanks for stopping by! 😄
